@@ -1,6 +1,8 @@
 grade = raw_input()
 grade = grade.upper()
 
+
+
 if grade == "A+" or grade == "A":
 	grade_point = "A"
 elif grade == "A-":

@@ -6,4 +6,5 @@ num = int(raw_input())
 
 if num % 2 == 0:
 	print "Number is even."
-else: print "Number is odd."
+else: 
+	print "Number is odd."
